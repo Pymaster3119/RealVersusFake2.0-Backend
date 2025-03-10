@@ -1,0 +1,6 @@
+numpy
+Pillow
+Flask
+flask-cors
+requests
+transformers
